@@ -6,4 +6,5 @@ is
 begin
    R1 := X / Y;
    R2 := X / Z;
+   R2 := X / Z;
 end Nonlinear;
